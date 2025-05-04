@@ -1,4 +1,6 @@
-# Search Domain Tool
+# Search Domain ToolsV2
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Deskripsi
 **Search Domain Tool** adalah alat untuk mencari domain secara otomatis berdasarkan kata kunci yang diberikan, mengecek status HTTP, dan mendeteksi halaman login seperti **WordPress** dan **cPanel**. Alat ini menyimpan hasil pencarian dalam file terpisah, memungkinkan pengguna untuk menganalisis lebih lanjut setiap domain yang ditemukan.
@@ -22,12 +24,12 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
 
 1. Clone repositori:
     ```bash
-    git clone https://github.com/username/Search-Domain-Tool.git
+    git clone https://github.com/RidXploit403/Graber.git
     ```
 
 2. Pindah ke direktori proyek:
     ```bash
-    cd Search-Domain-Tool
+    cd Graber
     ```
 
 3. Instal pustaka yang dibutuhkan:
@@ -42,7 +44,7 @@ Setelah instalasi selesai, ikuti langkah-langkah berikut untuk menjalankan alat 
 1. Siapkan file berisi kata kunci pencarian (misalnya `keyword.txt`).
 2. Jalankan skrip dengan perintah berikut:
     ```bash
-    python search_domain.py
+    python GraberV2.py
     ```
 
 3. Masukkan nama file yang berisi daftar kata kunci dan ekstensi domain (jika diinginkan).
